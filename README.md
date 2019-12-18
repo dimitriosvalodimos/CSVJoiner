@@ -2,7 +2,7 @@
 Small csv joiner with minimalistic GUI written in Python3
 
 ## How to use:
-- git clone https://github.com/dimitriosvalodimos/CSVJoiner/ or download the main.py file manually
+- git clone https://github.com/dimitriosvalodimos/CSVJoiner.git or download the main.py file manually
 - navigate into the destination folder
 - open Shell/Terminal inside the folder
 - type `python main.py`
